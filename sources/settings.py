@@ -36,10 +36,10 @@ SETTINGS = {
     "CAPTCHABOT_PRIVATE": False,
 
     # Bot Token (get it from @BotFather)
-    "CAPTCHABOT_TOKEN": "XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "CAPTCHABOT_TOKEN": "6350110433:AAFfRikJ0fevmAnwwrL1wYeahFYqQR-z_Gw",
 
     # Bot Owner (i.e. "@JoseTLG" or "123456789")
-    "CAPTCHABOT_OWNER": "XXXXXXXXX",
+    "CAPTCHABOT_OWNER": "5775908625",
 
     # Bot Webhook Host address (keep in "None" for Polling or set to a
     # valid address for Webhook)
